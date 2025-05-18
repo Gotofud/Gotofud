@@ -16,9 +16,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,php,bootstrap,laravel" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,github,figma,vscode" />
-  <br>
-  <img src="https://github.com/Gotofud/Gotofud/blob/main/assets/blade.png" width="40" alt="Blade Logo" />
+  <img src="https://skillicons.dev/icons?i=mysql,github,figma,vscode,laragon,xampp" />
 </p>
 
 
