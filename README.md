@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,php,laravel,flutter&theme=light" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman&theme=primary" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman&theme=light" />
 </p>
 
 <p align="center">
