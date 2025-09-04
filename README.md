@@ -10,18 +10,11 @@
 </p>
 
 ---
-
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,php,bootstrap,tailwind,laravel,react,nodejs,livewire" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman" />
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gotofud&show_icons=true&theme=tokyonight" height="150"/>
