@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Gotofud">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdvbWt5Njhnem4yaDdtcnUwZnc5a3I2NGNyOTFzZmswYmR5OGgzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oJNGcsjGW2S7Osj70P/giphy.gif" alt="Header" width="200" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdvbWt5Njhnem4yaDdtcnUwZnc5a3I2NGNyOTFzZmswYmR5OGgzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oJNGcsjGW2S7Osj70P/giphy.gif" alt="Header" width="180" />
   </a>
 </p>
 
@@ -11,29 +11,32 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,php,bootstrap,laravel,react,nodejs,tailwindcss,livewire" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,php,bootstrap,tailwind,laravel,react,nodejs,livewire" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,github,figma,vscode,postman,git" />
-</p>
-
-
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gotofud&layout=compact&theme=tokyonight&show_icons=true" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://instagram.com/fazlirf_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:fazlirausyanfikri40.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gotofud&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gotofud&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://instagram.com/fazlirf_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:fazlirausyanfikri40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
