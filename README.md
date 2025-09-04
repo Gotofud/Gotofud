@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,php,laravel,nodejs,react"&theme=light />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,php,laravel,flutter&theme=light" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman" />
 </p>
