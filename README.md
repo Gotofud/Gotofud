@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Fazli Rausyan Fikri</h1>
+<h1 align="center">Hi there! I'm Fazli Rausyan Fikri</h1>
 <p align="center">
   <i>Vocational High School student majoring in Software Engineering based in Bandung, Indonesia.</i>
 </p>
@@ -19,17 +19,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gotofud&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gotofud&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://instagram.com/fazlirf_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:fazlirausyanfikri40@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
